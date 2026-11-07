@@ -1176,6 +1176,12 @@
       "new_count": 1,
       "ongoing_count": 42,
       "expired_count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "new_count": 0,
+      "ongoing_count": 41,
+      "expired_count": 2
     }
   ],
   "title": "🚀 부산창업 서비스"
